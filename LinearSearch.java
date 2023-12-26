@@ -32,3 +32,8 @@ class LinearSearch {
         }
     }
 }
+
+//time complexity:
+//Best case : O(1)
+//Worst Case : O(n)
+//Average Case : O(n+1)/2
