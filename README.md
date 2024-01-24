@@ -2,3 +2,4 @@
 2. Binary Search. (Recursive)
 3. Fibonacci series. (Recursive)
 4. Insertion Sort.
+5. Selection Sort.
