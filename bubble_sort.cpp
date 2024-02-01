@@ -26,7 +26,6 @@ void print_array(int arr[], int arr_size)
 //function to sort array in accending order.
 void bubble_sort_deccend(int arr[], int size)
 {
-    bool swapped;
 
     for (int i = 0; i < size - 1; i++)
     {
@@ -44,7 +43,6 @@ void bubble_sort_deccend(int arr[], int size)
 //function to sort array in accending order.
 void bubble_sort_accend(int arr[], int size)
 {
-    bool swapped;
 
     for (int i = 0; i < size - 1; i++)
     {
